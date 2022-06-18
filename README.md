@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Solidity5X
+- 👀 I’m interested in Blockchain / Solidity
+- 🌱 I’m currently learning Solidity
+- 📫 How to reach me: telegram: @solidityX
